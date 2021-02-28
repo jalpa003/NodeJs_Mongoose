@@ -5,7 +5,7 @@
 * Project Of NodeJs and MongoDb
 * Simple Basic Crud operations using Nodejs,Express,Mongoose.
 
-* Node version : v12.19.0 *
+~ Node version : v12.19.0 
 
 ####  Run "npm i" command after extracting the file.
 #### Add your mongo db link in index.js.
